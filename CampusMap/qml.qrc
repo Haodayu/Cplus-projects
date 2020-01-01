@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MapRoot.qml</file>
+        <file>PopRec.qml</file>
+        <file>SearchRec.qml</file>
+        <file>images/12.png</file>
+        <file>images/23.png</file>
+        <file>images/search_hover.png</file>
+        <file>images/search_normal.png</file>
+        <file>images/map.jpg</file>
+        <file>images/res01.png</file>
+        <file>images/res02.png</file>
+        <file>images/res03.png</file>
+        <file>images/favicon.ico</file>
+        <file>images/ns.png</file>
+        <file>images/2pic.png</file>
+        <file>images/7pic.png</file>
+        <file>images/9pic.png</file>
+        <file>images/12pic.png</file>
+        <file>images/14pic.png</file>
+        <file>images/26pic.png</file>
+        <file>images/28pic.png</file>
+        <file>images/31pic.png</file>
+        <file>images/23pic.png</file>
+        <file>images/2.png</file>
+        <file>images/7.png</file>
+        <file>images/9.png</file>
+        <file>images/14.png</file>
+        <file>images/17.png</file>
+        <file>images/17pic.png</file>
+        <file>images/26.png</file>
+        <file>images/28.png</file>
+        <file>images/31.png</file>
+        <file>images/39.png</file>
+        <file>images/39pic.png</file>
+        <file>images/up.png</file>
+    </qresource>
+</RCC>
